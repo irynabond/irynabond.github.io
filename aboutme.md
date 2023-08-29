@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Зустрітися зі мною
+subtitle: Я учитель, який любить навчати
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Привіт, друже!
+Мене звати Тетяна, я вчитель української мови з багаторічним досвідом. Я пропоную уроки української мови для дітей та дорослихю 
 
 - I rock a great mustache
 - I'm extremely loyal to my family
